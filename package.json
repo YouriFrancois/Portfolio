@@ -38,7 +38,8 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
     },
     "dependencies": {
-        "bootstrap": "4.4.1"
+        "bootstrap": "4.4.1",
+        "grunt": "^1.1.0"
     },
     "devDependencies": {
         "autoprefixer": "9.7.6",
